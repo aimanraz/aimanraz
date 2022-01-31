@@ -4,5 +4,4 @@
 
 
 🔴🟡🟢 **Connect with me:**
-[![Follow](https://img.shields.io/twitter/follow/aiman_rzq?style=social)](https://twitter.com/aiman_rzq)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aiman-razak/)
